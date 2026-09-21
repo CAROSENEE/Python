@@ -13,5 +13,7 @@ class Student:
 s1 = Student("Mahin", 22)
 
 print(s1)         # __str__ call hoy
+
 print(repr(s1))   # __repr__ call hoy
+
 print([s1])       # list er vitore __repr__ dekhay
