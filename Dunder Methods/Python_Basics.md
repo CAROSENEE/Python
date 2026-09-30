@@ -1,5 +1,5 @@
 # Basics
-* '__init_' , '__new__' , '__del__'
+* ' __init_ ' , '__new__' , '__del__'
 * '__str__' , '__repr__'
 
 # operator overloading
